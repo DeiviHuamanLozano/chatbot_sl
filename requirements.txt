@@ -1,0 +1,10 @@
+fastapi[standard]
+twilio
+python-dotenv
+SQLAlchemy
+openai
+pydub
+pandas
+google-cloud-storage
+uvicorn
+openpyxl
